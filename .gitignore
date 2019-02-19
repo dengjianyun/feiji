@@ -1,0 +1,9 @@
+.cocos-project.json
+.idea/
+bin/
+cmake-build-debug/
+cocos2d/
+proj.android/
+proj.ios_mac/
+proj.linux/
+proj.win32/
